@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "I'll always love you, hold your hand and walk with you no matter what happens in life.",
-        message: "Now call me princess, I have planned a date for us",
+        title: "No matter what happens in life, I’ll always love you, hold your hand, and walk beside you on this journey of life until my very last breath.",
+        message: "Now call me princess, I have planned a date for us!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
